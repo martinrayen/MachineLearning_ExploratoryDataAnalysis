@@ -1,2 +1,2 @@
 # MachineLearning_ExploratoryDataAnalysis
-Techniques in Exploratory Data Analysis.
+Techniques in Statistical and Exploratory Data Analysis.
